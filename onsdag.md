@@ -32,18 +32,17 @@ opentracing fra uber
 
 
 ## conduit
+[why have a service mesh](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
 
+```
 conduit tap
 
 conduit dashboard
-
-[why have a service mesh](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
+```
 
 ## spinnaker
 
-*netfix*
-
-CI / infrastructure management
+*netfix CI / infrastructure management*
 
 * pluggable arch
 
