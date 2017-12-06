@@ -88,3 +88,10 @@ conduit dashboard
 * adds tracing
 * no code change demands
 
+* based on envoy
+	* not necessary to use envoy
+
+
+Good points
+* consistent metrics across fleet, no instrumenting needed in-app
+* tracing --"--
