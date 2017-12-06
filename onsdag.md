@@ -57,7 +57,7 @@ conduit dashboard
 * [fargate](https://aws.amazon.com/blogs/aws/aws-fargate/)
 	* Run Containers without Managing
 	* Runs on EKS [elastic kubernetes service](https://aws.amazon.com/eks/)
-* re:invent tal ARC219 youtube
+* re:invent talk ARC219 youtube
 * medium.com/@adrianco
 * Native VPC networking with CNI plugin on AWS
 	* open source on github
