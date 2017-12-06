@@ -50,3 +50,15 @@ conduit dashboard
 
 * støtter regionale deployments for å gjøre green/blue på region-nivå
 
+* support for "manual judgement" push button (*noice*)
+
+## AWS Cloud native principles
+
+* [fargate](https://aws.amazon.com/blogs/aws/aws-fargate/)
+	* Run Containers without Managing Infrastructure
+	* 
+* re:invent tal ARC219 youtube
+* medium.com/@adrianco
+* Native VPC networking with CNI plugin on AWS
+	* open source on github
+* 
