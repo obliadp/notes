@@ -23,8 +23,10 @@
 * Encourage users to participate in documentation
 
 #### Relevant to open-source / SAAS
-* Docker: Example of bad onboarding
-* Kubernetes: Example of good onboarding
+* [Docker website](https://www.docker.com/): Example of bad onboarding for new or curious users
+  * Information aimed purely at existing / advanced users
+  * "What is docker" goes to a B2B sales blurb
+* [Kubernetes website](https://kubernetes.io/): Example of good onboarding
 * User must be able to quickly and cheaply figure out if the project is a good fit
 * Showcase what the product can do, provide demos
 * Show / hide-buttons for the "supporting code" around example code
