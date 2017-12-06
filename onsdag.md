@@ -95,3 +95,9 @@ conduit dashboard
 Good points
 * consistent metrics across fleet, no instrumenting needed in-app
 * tracing --"--
+* uses SPIFFE
+* makes blue/green and things very easy
+
+Bad
+* big layer on top of everything
+
