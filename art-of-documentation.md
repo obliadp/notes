@@ -1,12 +1,18 @@
-# Doc-talk
-Ben hall / katacoda.com
-@Ben_Hall
-Slides: https://www.slideshare.net/BenHalluk/the-art-of-documentation-and-readmemd
+# The art of documentation via Ben Hall
+<details>
+	<summary>Talk details</summary>
+	<ul>
+		<li>Speaker: Ben hall / katacoda.com</li>
+		<li><a href="https://twitter.com/Ben_Hall">@Ben_Hall</a></li>
+		<li><a href="https://www.slideshare.net/BenHalluk/the-art-of-documentation-and-readmemd">Slides on slideshare.com</a></li>
+	</ul>
+</details>
+
 
 ### Notes
 #### Relevant to closed-source
-* Readme.md has a `<details>`-tag
-** https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d
+* Readme.md supports some HTML, including the `<details>`-tag
+  * Inline HTML examples (and other markdown examples) [here](https://daringfireball.net/projects/markdown/syntax#html)
 * Documentation should state which problem is being solved
 * Step by step guides, especially for first-time setup
 * Document early
@@ -23,21 +29,15 @@ Slides: https://www.slideshare.net/BenHalluk/the-art-of-documentation-and-readme
 * Showcase what the product can do, provide demos
 * Show / hide-buttons for the "supporting code" around example code
 * Utilize community, allow them to provide examples and docs
-** Slack!
+  * Slack!
 
 ### Example product adoption journey
 * Exploration
-** Quickly figuring out what the project does
+  * Quickly figuring out what the project does
 * Getting started
-** Quickly setting up the project
+  * Quickly setting up the project
 * Onboarding / problem solving
-** Use-case examples
+  * Use-case examples
 * Guidance and Discovery
-** Traditional longer-form docs
+  * Traditional longer-form docs
 * Reference exploration
-
-### Questions
-* How to solve the moderation challenges related to community-driven documentation (PHP.net / stackOverflow)
-* Should product maintainers engage with stackoverflow users?
-* Any preferred documentation tools?
-* Should there be a "good docs" showcase?
