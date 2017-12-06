@@ -79,3 +79,12 @@ conduit dashboard
 	* seems not ready, more of an initiative?
 	* aims to replace things like vault?
 
+## ISTIO
+
+* sidecar based arch
+* control plane
+^ intercepts all traffic
+* adds telemetry
+* adds tracing
+* no code change demands
+
