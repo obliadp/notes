@@ -7,9 +7,15 @@ Onsdag
 
 * https://linkerd.io/
 
-* envoy
+* [kata containers](https://katacontainers.io)
 
-* TUF
+* [envoy](https://github.com/envoyproxy/envoy)
+	* C++ (ugh)
+	* [source](https://github.com/envoyproxy/envoy)
+
+* [TUF](https://theupdateframework.github.io)
+	* Update Framework
+	* [source](https://github.com/theupdateframework/tuf)
 
 [CNCF landscape](https://github.com/cncf/landscape)
 
@@ -17,9 +23,6 @@ Onsdag
 
 ## jaeger
 opentracing fra uber
-
-
-
 
 ## Fluentd
 
@@ -36,5 +39,11 @@ conduit dashboard
 
 [why have a service mesh](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
 
-## envoy
+## spinnaker
+
+netflix
+
+CI / infrastructure management
+
+pluggable arch
 
