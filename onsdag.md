@@ -41,9 +41,13 @@ conduit dashboard
 
 ## spinnaker
 
-netflix
+*netfix*
 
 CI / infrastructure management
 
-pluggable arch
+* pluggable arch
+
+* gjør "alt" og forurenser linjene mellom ci og cd, testing og resilience testing
+
+* støtter regionale deployments for å gjøre green/blue på region-nivå
 
