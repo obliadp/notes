@@ -4,6 +4,7 @@
 	<ul>
 		<li>Speaker: Ben hall / katacoda.com</li>
 		<li><a href="https://twitter.com/Ben_Hall">@Ben_Hall</a></li>
+		<li>Youtube-video: Coming up</li>
 		<li><a href="https://www.slideshare.net/BenHalluk/the-art-of-documentation-and-readmemd">Slides on slideshare.com</a></li>
 	</ul>
 </details>
