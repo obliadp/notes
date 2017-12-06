@@ -11,7 +11,7 @@ Onsdag
 
 * TUF
 
-https://github.com/cncf/landscape
+[CNCF landscape](https://github.com/cncf/landscape)
 
 ![landscape](https://github.com/cncf/landscape/raw/master/landscape/CloudNativeLandscape_latest.jpg)
 
