@@ -27,7 +27,7 @@ Thursday
 
 * dynamic secrets
 
-## garethr
+## garethr tooling
 
 * [kubeval](https://github.com/garethr/kubeval)
 * [kubetest](https://github.com/garethr/kubetest)
