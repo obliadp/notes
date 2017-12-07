@@ -102,3 +102,14 @@ Bad
 * big layer on top of everything
 
 
+## Tracing at Uber
+
+[Jaeger](https://github.com/jaegertracing/jaeger)
+
+Tracing is essentially distributed stack-traces
+
+Looks cool, does distributed app contexts (rewrites necessary)
+
+## Fluentd for distributed logging
+
+Impossible to understand what was being said.
