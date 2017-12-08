@@ -27,6 +27,8 @@ Thursday
 
 * dynamic secrets
 
+Vault looks really good. Maybe look more into it.
+
 ## garethr tooling
 
 * [kubeval](https://github.com/garethr/kubeval)
