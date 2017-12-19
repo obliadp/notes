@@ -23,3 +23,14 @@ Thursday
 [k8s CRD doc](https://kubernetes.io/docs/concepts/api-extension/custom-resources/)
 
 
+## Vault
+
+* dynamic secrets
+
+Vault looks really good. Maybe look more into it.
+
+## garethr tooling
+
+* [kubeval](https://github.com/garethr/kubeval)
+* [kubetest](https://github.com/garethr/kubetest)
+  * [skylark](https://github.com/google/skylark)
