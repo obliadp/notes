@@ -3,7 +3,7 @@
 	<summary>Talk details</summary>
 	<ul>
 		<li>Speakers: <a href="https://twitter.com/kris__nova">Kris Nova</a> (Heptio) & <a href="https://github.com/roberthbailey">Robert Bailey</a> (Google)</li>
-		<li>Youtube-video: Coming up</li>
+		<li><a href="https://youtu.be/nLxyyI1WV_w">Youtube-video</a></li>
 		<li><a href="http://sched.co/CU67">Talk details on sched.com</a></li>
 	</ul>
 </details>
