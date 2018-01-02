@@ -4,7 +4,7 @@
 	<ul>
 		<li>Speaker: Ben hall / katacoda.com</li>
 		<li><a href="https://twitter.com/Ben_Hall">@Ben_Hall</a></li>
-		<li>Youtube-video: Coming up</li>
+		<li><a href="https://youtu.be/-EaJEnFhwjs">Youtube-video</a></li>
 		<li><a href="https://www.slideshare.net/BenHalluk/the-art-of-documentation-and-readmemd">Slides on slideshare.com</a></li>
 	</ul>
 </details>
@@ -18,7 +18,7 @@
 * Step by step guides, especially for first-time setup
 * Document early
 * Doc should address the typical product adoption journey (as it applies to your project)
-* Code examples must ideally compile
+* Code examples should ideally compile
 * Provide concise docs for all or most use cases
 * Quick navigation to quickstart docs relevant to each use case
 * Encourage users to participate in documentation

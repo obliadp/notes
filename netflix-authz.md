@@ -1,7 +1,13 @@
-# Netflix authorization talk (OPA ftw)
-* Details [on sched.com](https://kccncna17.sched.com/event/CU73/how-netflix-is-solving-authorization-across-their-cloud-i-manish-mehta-torin-sandall-netflix)
-* Slides [on schd.ws](https://schd.ws/hosted_files/kccncna17/cb/Manish%20Mehta%20Netflix%20AuthZ%20V4.pdf)
-* Youtube-video coming up
+# How Netflix Is Solving Authorization Across Their Cloud
+<details>
+	<summary>Talk details</summary>
+	<ul>
+		<li>Speakers: Manish Mehta & Torin Sandall</li>
+		<li><a href="https://youtu.be/R6tUNpRpdnY">Youtube-video</a></li>
+		<li><a href="http://sched.co/CU73">Talk details on sched.com</a></li>
+		<li><a href="https://schd.ws/hosted_files/kccncna17/cb/Manish%20Mehta%20Netflix%20AuthZ%20V4.pdf">Slides on schd.ws</a></li>
+	</ul>
+</details>
 
 ### Problem presented:
 * Authorization is hard, and slow.
